@@ -594,6 +594,12 @@ h3 {
   color: #fff;
   font-weight: 600;
 }*/
+h2,
+.h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.33em;
+  margin-top: 0;
+}
 
 .map__marker-info-header h2 {
   box-sizing: border-box;
@@ -604,12 +610,7 @@ h3 {
   margin-top: 0;
 }
 
-h2,
-.h2 {
-  font-size: 1.5em;
-  margin-bottom: 0.33em;
-  margin-top: 0;
-}
+
 
 h3,
 .h3 {
