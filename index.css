@@ -913,7 +913,7 @@ svg {
   background-color:  rgba(0, 0, 0, 0.7);
   margin-left: auto;
   margin-right: auto;
-  height: 365px;
+  height: relative;
   border-bottom-left-radius: 0.5em;
   border-bottom-right-radius: 0.5em;
   color: #7e7e7e;
