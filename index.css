@@ -920,7 +920,7 @@ svg {
 }
 
 .map__marker-info-header {
-
+  margin-top:0.1em;
   background-color: rgba(105,105,105,0.7);
   border-top-left-radius: 0.5em;
   border-top-right-radius: 0.5em;
