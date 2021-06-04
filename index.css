@@ -901,7 +901,7 @@ svg {
 }
 
 .map__marker-info-header {
-  text-align: center;
+
   background-color: rgba(105,105,105,0.7);
   border-top-left-radius: 0.5em;
   border-top-right-radius: 0.5em;
