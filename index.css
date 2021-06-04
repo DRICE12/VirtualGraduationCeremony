@@ -809,6 +809,16 @@ svg {
   animation-delay: 5s;
 }
 
+.map__marker--jl {
+  left: 26%;
+  top: 28%;
+}
+
+.map__marker--semen {
+  left: 5%;
+  top: 80%;
+}
+
 .map__marker--sun {
   left: 48%;
   top: 49%;
@@ -887,6 +897,15 @@ svg {
 }
 
 .map__marker-library:after {
+  animation-delay: 5s;
+}
+
+.map__marker--library2 {
+  left: 90%;
+  top: 60%;
+}
+
+.map__marker-library2:after {
   animation-delay: 5s;
 }
 
