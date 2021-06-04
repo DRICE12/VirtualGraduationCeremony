@@ -604,6 +604,13 @@ h3 {
   margin-top: 0;
 }
 
+h2,
+.h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.33em;
+  margin-top: 0;
+}
+
 h3,
 .h3 {
   font-size: 1.25em;
@@ -920,7 +927,7 @@ svg {
 }
 
 .map__marker-info-header {
-  margin-top:0.1em;
+  text-align: center;
   background-color: rgba(105,105,105,0.7);
   border-top-left-radius: 0.5em;
   border-top-right-radius: 0.5em;
